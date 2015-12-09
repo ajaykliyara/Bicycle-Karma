@@ -1,4 +1,4 @@
-## Project: Bicycle Karma: Predicting and tracking bike theft
+## Project: Bicycle Karma: Predicting bicycle theft
 
 #### Team: Holmes
 
@@ -56,4 +56,3 @@ Please refer to the Index.ipynb file to refer to the individual ipython notebook
 - scipy - scientific tools for python
 - pygeocoder - to get attributes like city, state based on lat and long
 - googleplaces - python wrapper for google places api, used to get points of interest around the stolen location (lat,long)
-
